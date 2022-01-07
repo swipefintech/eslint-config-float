@@ -8,6 +8,10 @@
     "url": "https://github.com/swipefintech/eslint-config-float/issues"
   },
   "description": "This package includes some opinionated configuration for ESLint.",
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "husky": "^7.0.4"
+  },
   "homepage": "https://github.com/swipefintech/eslint-config-float#readme",
   "keywords": [
     "eslint",
@@ -19,6 +23,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/swipefintech/eslint-config-float.git"
+  },
+  "scripts": {
+    "postinstall": "husky install"
   },
   "version": "0.0.1"
 }
