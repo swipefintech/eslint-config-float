@@ -1,6 +1,6 @@
 # eslint-config-float
 
-This package includes some opinionated configuration for [ESLint](https://eslint.org/).
+This package includes some opinionated configuration for [ESLint](https://eslint.org/), used at [Float](https://float.co/) and friends.
 
 [![npm](https://img.shields.io/npm/v/eslint-config-float)](https://www.npmjs.com/package/eslint-config-float)
 [![npm](https://img.shields.io/npm/dm/eslint-config-float)](https://www.npmjs.com/package/eslint-config-float)
