@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "Vaibhav Pandey",
+    "email": "vaibhav@getswipe.com",
+    "url": "https://float.co/"
+  },
+  "bugs": {
+    "url": "https://github.com/swipefintech/eslint-config-float/issues"
+  },
+  "description": "This package includes some opinionated configuration for ESLint.",
+  "homepage": "https://github.com/swipefintech/eslint-config-float#readme",
+  "keywords": [
+    "eslint",
+    "formatting",
+    "styling"
+  ],
+  "name": "eslint-config-float",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swipefintech/eslint-config-float.git"
+  },
+  "version": "0.0.1"
+}
