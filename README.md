@@ -2,6 +2,10 @@
 
 This package includes some opinionated configuration for [ESLint](https://eslint.org/).
 
+[![npm](https://img.shields.io/npm/v/eslint-config-float)](https://www.npmjs.com/package/eslint-config-float)
+[![npm](https://img.shields.io/npm/dm/eslint-config-float)](https://www.npmjs.com/package/eslint-config-float)
+[![CI](https://github.com/swipefintech/eslint-config-float/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/swipefintech/eslint-config-float/actions/workflows/lint.yml)
+
 ## Installation
 
 You can install and use the config in your project either by installing from [npm](https://npmjs.com/package/eslint-config-float) or local code.
@@ -32,7 +36,7 @@ npm link eslint-config-float
 
 ## Usage
 
-In any of your project's `.eslintrc` files, extend from this package instead:
+In any of your project's `.eslintrc` files, extend from this package:
 
 ```json
 {
